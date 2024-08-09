@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(211, 196, 177);
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 5px 10px 5px;
+    font-style: italic;
+}
+
+input:focus{
+    background-color: antiquewhite;
+}
+
+button{
+    margin-top: 10px;
+    padding:5px;
+    background-color: rgb(182, 179, 174);
+}
+
+button:hover{
+    background-color: rgb(128, 114, 94);
+}
+
+#content{
+    margin:40px
+}
+
+h1{
+    margin:10px;
+}
+
+#redo{
+    margin-top: 50px;
+    margin-left: -30px;
+}
